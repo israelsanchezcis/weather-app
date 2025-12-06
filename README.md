@@ -1,11 +1,9 @@
 # weather-app
-Short description of your project. Example:  
-A simple web app that helps me practice [HTML/CSS/JS/Python/etc.].
+This project was created to help me practice the fundamentals of web development. It gave me hands-on experience working with HTML, CSS, and JavaScript, and helped me understand how each part connects to build a simple webpage.
 
 ## Technologies Used
-- HTML, CSS, JavaScript
-- Or: Python
-- Or: Java
+- HTML5
+- JavaScript (beginner level)
 
 ## Features
 - A clean and simple webpage layout
